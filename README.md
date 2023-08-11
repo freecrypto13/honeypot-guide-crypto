@@ -1,6 +1,6 @@
 # honeypot-guide-crypto
 Crypto Honeypot: A Comprehensive Guide to Create, Deploy and Market Your Own Cryptocurrency Token
-
+BONUS: Make your own MEME Token!!!
 
 Unleash the power of the blockchain with our definitive guide on creating, deploying, and marketing your own cryptocurrency token. This detailed step-by-step guide provides practical insights for both beginners and advanced crypto enthusiasts. Learn how to develop your own token, list it on a DEX, and create successful marketing strategies that can lead to profits ranging from $1k-$6k per deployment. The guide also covers essential aspects such as smart contracts, blockchain technology, token economics, and ICOs. Ideal for developers, entrepreneurs, or anyone interested in diving into the world of crypto.
 
