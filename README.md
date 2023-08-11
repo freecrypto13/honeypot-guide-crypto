@@ -1,4 +1,4 @@
-# honeypot-guide-crypto
+# honeypot-guide / tutorial -crypto
 Crypto Honeypot: A Comprehensive Guide to Create, Deploy and Market Your Own Cryptocurrency Token
 
 BONUS: Make your own MEME Token!!!
